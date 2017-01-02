@@ -1,4 +1,4 @@
-package test
+package scala.ex_2
 
 /**
   * Created by jojonari on 2017. 1. 1..
